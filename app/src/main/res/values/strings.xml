@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IT411_AsyncTask</string>
+
+    <string name="update">ยืนยันการแก้ไข</string>
+
+    <!--URL-->
+    <string name="root_url">http://192.168.43.238:8080/parttime</string>
+    <string name="register_url">/member/add</string>
+    <string name="login_url">/member/login</string>
+    <string name="get_profile_url">/member/getprofile</string>
+    <string name="get_login_url">/member/getlogin</string>
+    <string name="edit_profile_url">/member/update</string>
+    <string name="get_event_url">/member/getevent</string>
+    <string name="get_eventtt_url">/member/getEventttt</string>
+    <string name="get_time_url">/member/getTime</string>
+    <string name="delete_user_url">/user/delete</string>
+
+    <!--ERROR-->
+    <string name="global">Error,please try again.</string>
+</resources>
